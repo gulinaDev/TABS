@@ -64,7 +64,7 @@
 
 // const circle = document.createElement("div")
 // circle.style.width = "300px"
-// circle.style.height = "300px"
+// cirgcle.style.height = "300px"
 // circle.style.background = "pink"
 // circle.style.borderRadius = "50%"
 // circle.style.animation = "anim 2s infinite"
