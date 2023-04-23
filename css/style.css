@@ -1,0 +1,11 @@
+@keyframes anim {
+    0% {
+    transform: translateX(0) translateY(10px);
+    }
+    50%{
+        transform: translateX(130px) translateY(-40px);
+    }
+    100%{
+        transform: translateX(0) translateY(-100px);
+    }
+}
